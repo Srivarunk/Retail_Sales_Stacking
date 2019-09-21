@@ -1,2 +1,2 @@
 # Retail_Sales_Stacking
-Forecasting of retail sales
+Combining multiple regression models via meta-regressor using <i><b>stacking</b></i> technique and predicting the sales of a leading retailer.
